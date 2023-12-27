@@ -3,7 +3,7 @@
  <h1 align="center">🦀 Hola!!! 🦀 Soy Alejandro Picó 🐌
 </div>
 
-### Estudiando actualmente Master Full Stack Developer Unir.
+### Junior Full Stack Developer.
 
 <!--
 
